@@ -20,7 +20,7 @@ const nextConfig: NextConfig = {
       {
         // Patrón para producción en RENDER
         protocol: "https",
-        hostname: "ihcbackend.onrender.com",
+        hostname: "pgesbackend.onrender.com",
         port: "",
         pathname: "/uploads/**",
       },
